@@ -1,0 +1,14 @@
+
+.c-footer{
+    color: #ffff;
+    font-size: .8rem;
+    background: #2E0039;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
